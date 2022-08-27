@@ -46,7 +46,7 @@ function App() {
           contract,
         });
       } else {
-        console.error("Please install MetaMask!");
+        console.error("Please install MetaMask");
       }
     };
 
